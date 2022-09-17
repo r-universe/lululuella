@@ -8,8 +8,3 @@
 	url = https://github.com/lululuella/debcam
 	shallow = true
 	registered = true
-[submodule "OVESEG"]
-	path = OVESEG
-	url = https://github.com/lululuella/oveseg
-	shallow = true
-	registered = true
