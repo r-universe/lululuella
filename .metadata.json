@@ -1,5 +1,8 @@
 [
   {
     "package": "debCAM"
+  },
+  {
+    "package": "OVESEG"
   }
 ]
